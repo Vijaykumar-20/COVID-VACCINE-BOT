@@ -11,9 +11,13 @@ Instructions to create your own bot
 
     Clone the Telegram_bot repository using the following command:
     $ git clone https://github.com/Saisrujan123/Telegram_bot.git
+    
     Install the project requirements from requirements.txt using the following command:
     $ pip install -r requirements.txt
+    
     Create a bot on telegram's botFather and save the token received.
+    
     Open the constants.py file and replace your API token with the current one.
+    
     Finally, run the bot.py file to start the bot.
 
