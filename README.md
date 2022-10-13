@@ -20,4 +20,8 @@ Instructions to create your own bot
     Open the constants.py file and replace your API token with the current one.
     
     Finally, run the bot.py file to start the bot.
+    
+    ![image](https://user-images.githubusercontent.com/103626246/195572952-8745cfcb-9e5b-40c8-a87e-4501c58c1d12.png)
+
+
 
