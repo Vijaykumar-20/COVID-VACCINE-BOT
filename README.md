@@ -10,7 +10,7 @@ Instructions to use the bot
 Instructions to create your own bot
 
     --> Clone the Telegram_bot repository using the following command:
-    $ git clone https://github.com/Saisrujan123/Telegram_bot.git
+    $ git clone https://github.com/Vijaykumar-20/COVID-VACCINE-BOT/edit/main/README.md
     
     --> Install the project requirements from requirements.txt using the following command:
     $ pip install -r requirements.txt
